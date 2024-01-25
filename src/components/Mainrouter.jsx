@@ -24,7 +24,7 @@ const Mainrouter = () => {
       </Routes>
 
       {isRootPath && (
-        <div className=" px-10 py-10 flex flex-col space-y-20  items-center text-center justify-center bg-peach w-full h-screen  text-white">
+        <div className=" px-10 py-10 flex flex-col space-y-20  items-center text-center justify-center bg-peach w-full h-[200vh]  text-white">
           <h1 className="text-lg font-bold md:text-3xl xl:text-5xl">
             pls click at the below nav links to navigate to these pages
           </h1>
